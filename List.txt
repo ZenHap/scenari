@@ -1,2 +1,2 @@
-You jump in front of a train.k
-You did a boom.k
+You jump in front of a train.@
+You did a boom.@
